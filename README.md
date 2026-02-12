@@ -1,2 +1,17 @@
-# AulaMax
-Ideias para estruturar um repositório do GitHub
+# PROJETO EMPRESARIAL
+Logo aqui vocês pode inserir a visão do produto, que nada mais é de uma descrição bem objetiva do produto 
+
+##PROBLEMA
+Aqui vocês podem especificar o problema ou a situação que motivaa a criação do produto.
+
+## PÚBLICO
+Aqui vocês podem colocar o público, ou melhor, para quem o produto é direcionado.
+
+## OBJETIVO
+Aqui vocês podem colocar os objetivos
+
+-Objetivo 1
+
+-Objetivo 2
+
+-Objetivo 3
