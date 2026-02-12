@@ -1,0 +1,2 @@
+# AulaMax
+Ideias para estruturar um repositório do GitHub
